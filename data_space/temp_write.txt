@@ -1,0 +1,1 @@
+vid	cmsid	media_name	media_cate1_orig	media_cate2	media_level	a_title	utags	media_cate1	small	teg_ai_cate1	teg_ai_cate2	first_recommand_text	sec_recommand_text	first_recommand	sec_recommand	firstTagID	secTagID	predict_firstTagtoken	
