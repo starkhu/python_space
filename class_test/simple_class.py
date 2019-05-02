@@ -42,7 +42,7 @@ def property_test(tony):
     print(tony.set_age)
 
 def main():
-    tony = Person("Tony", 25)
+    tony = Person("Tony", 15)
     #attr_test(tony)
     property_test(tony)
 
