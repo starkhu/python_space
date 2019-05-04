@@ -29,7 +29,9 @@ def computeSearchTime(data_structure, structure_name):
     print(structure_name, "cost: ", (end - start).seconds, " seconds.")
 
 def compareDataStructureDifference():
+    print("####")
     data_list, data_dict, data_set = generateSourceData()
+    print("####")
     computeSearchTime(data_set, "set")
     computeSearchTime(data_dict, "dict")
     computeSearchTime(data_list, "list")
