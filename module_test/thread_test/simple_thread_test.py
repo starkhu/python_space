@@ -2,7 +2,6 @@ from random import randint
 from threading import Thread
 from time import time, sleep
 
-
 def download(filename):
     print('start to download %s...' % filename)
     time_to_download = randint(5, 10)
